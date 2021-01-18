@@ -1,2 +1,2 @@
 # ProjectManager Returns
-# This time with more features and database use support
+# This time with more features and database use
