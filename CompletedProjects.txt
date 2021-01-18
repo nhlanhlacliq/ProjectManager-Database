@@ -1,0 +1,31 @@
+
+Project number: 	1
+Project name: 		House Dobolonius
+Building type: 		House
+Physical address: 	321 Abc str
+ERF number: 		2255
+Amount charged: 	500000.0
+Amount paid: 		125000.0
+Amount owing: 		375000.0
+Project deadline: 	2020-12-20
+Project finalised: 	true
+Date completed: 	2020-11-26
+
+CUSTOMER:
+Name: 			Dobolonius
+Telephone number: 	0115557777
+E-mail address: 	dob@lon.us
+Physical address: 	321 Abc str
+
+ARCHITECT:
+Name: 			Archie
+Telephone number: 	0115558889
+E-mail address: 	Arch@tect.com
+Physical address: 	654 Dr
+
+CONTRACTOR:
+Name: 			Contra
+Telephone number: 	0115559998
+E-mail address: 	Contr@ct.com
+Physical address: 	987 Dr
+=============================================
