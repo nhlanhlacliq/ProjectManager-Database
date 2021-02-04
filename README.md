@@ -1,7 +1,7 @@
 # ProjectManager Returns
 ### This time with more features and database use
 
-Recap: this is an "Project managing" application that utilizes **object oriented programming** and **databases**.
+Recap: this is a "Project managing" application that utilizes **object oriented programming** and **databases**.
 
 *The program is run from "**Main.java**"*
 
